@@ -5,13 +5,7 @@
   "private": true,
   "main": "index.ts",
   "scripts": {
-    "dev": "webpack-dev-server --mode development --open --hot",
-    "test": "jest",
-    "test:watch": "jest --watch",
-    "lint": "npm run lint:code & npm run lint:style",
-    "lint:code": "tsc && eslint src/**/*.{ts,tsx} --fix",
-    "lint:style": "stylelint src/**/*.scss --fix",
-    "build": "webpack --mode production"
+    "start": "node ./src/index.js"
   },
   "keywords": [],
   "author": "Mostafa Sameti",
