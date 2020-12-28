@@ -1,8 +1,8 @@
-# Socket Chat - Client
+# Socket Chat - Server
 
 Simple single page chat application - Server part.
 
-For clinet part go to [socket chat client](https://github.com/IVIosi/socket-chat-client).
+For client part go to [socket chat client](https://github.com/IVIosi/socket-chat-client).
 
 ## How It Works
 
